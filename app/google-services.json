@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818130965212",
+    "project_id": "easypharm-94ae7",
+    "storage_bucket": "easypharm-94ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818130965212:android:04104923a1e5612b341a19",
+        "android_client_info": {
+          "package_name": "com.gavin.easypharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818130965212-fefg9fuh6lqi7u294976ee0b06p0rrj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gavin.easypharm",
+            "certificate_hash": "7782f0f7ce555f4fc12892eb0799d84c526ce4eb"
+          }
+        },
+        {
+          "client_id": "818130965212-22br62s275ubnd6up06rtql4jlqkabk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVGAiBWJ_EK50z5hUmKir1brOqlgVVY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818130965212-22br62s275ubnd6up06rtql4jlqkabk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
